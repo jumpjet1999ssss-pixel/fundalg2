@@ -1,0 +1,6 @@
+5 Ivan Petrov 35000
+2 Anna Ivanova 45000
+7 Oleg Sidorov 35000
+4 Petr Petrov 35000
+1 Ivan Petrov 35000
+3 Masha Smirnova 28000

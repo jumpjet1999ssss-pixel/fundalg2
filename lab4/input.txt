@@ -1,0 +1,5 @@
+4 10
+photo.jpg 6 3
+notes.txt 2 5
+lab.c 4 8
+music.mp3 8 1
